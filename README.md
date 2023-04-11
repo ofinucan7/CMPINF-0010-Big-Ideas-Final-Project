@@ -9,7 +9,9 @@ Team Members: - Owen Finucan (ofinucan7@gmail.com & otf6@pit.edu) and Jonah Smit
 
 Canvas Group Number: Final Project Group 34
 
-Datasets Used: - A Community Profile of Pittsburgh Neighborhoods, 1974
+Datasets Used: 
+                  
+               - A Community Profile of Pittsburgh Neighborhoods, 1974
                   - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974
                   - Gives a list of population and serious criminal activity such as murder, rape, assult, and larceny by region
                   
