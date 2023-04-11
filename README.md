@@ -18,3 +18,6 @@ Datasets Used:
                - Allegheny County Fatal Accidental Overdoses (Analysis: Owen Finucan)
                   - https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
                   - Gives a list of age, gender, and what drugs someone was on when they overdosed by region
+               - Pittsburgh Police Arrest Date (Analysis: Jonah Smith)
+                  - https://data.wprdc.org/dataset/arrest-data
+                  - Gives a list of all arrests by the Pittsburgh police over the past ~7 years, with location, arrest time, arrest reason, and other metrics.
