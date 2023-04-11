@@ -5,8 +5,7 @@ The project is measuing the best place to commit a campital crime within the Pit
 Note: We do not condone the use of illegal substances, crime, or any other illegal activity. This project is for statistical, educational, and comical purposes only.
 
 Teamname:
-Team Members: - Owen Finucan (ofinucan7@gmail.com & otf6@pit.edu)
-              - Jonah Smith (----------------)
+Team Members: - Owen Finucan (ofinucan7@gmail.com & otf6@pit.edu) and Jonah Smith (----------------)
 
 Canvas Group Number: Final Project Group 34
 
