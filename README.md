@@ -4,7 +4,7 @@ Final project for CMPINF 0010 at the University of Pittsburgh.
 The project is measuing the best place to commit a campital crime within the Pittsburgh area gauged by the the number of police firearm seizures, the amount of serious (capital) crimes, and drug overdoses, which is correlated to drug use. 
 Note: We do not condone the use of illegal substances, crime, or any other illegal activity. This project is for statistical, educational, and comical purposes only.
 
-Teamname:
+Teamname: This Project is A Giant Waste of Our Time
 Team Members: - Owen Finucan (ofinucan7@gmail.com & otf6@pit.edu) and Jonah Smith (----------------)
 
 Canvas Group Number: Final Project Group 34
