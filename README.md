@@ -16,9 +16,9 @@ Datasets Used:
                - A Community Profile of Pittsburgh Neighborhoods, 1974 (Analysis: Owen Finucan)
                   - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974
                   - Gives a list of population and serious criminal activity such as murder, rape, assult, and larceny by region
-               - Allegheny County Fatal Accidental Overdoses (Analysis: Owen Finucan)
-                  - https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses
-                  - Gives a list of age, gender, and what drugs someone was on when they overdosed by region
+               - Pittsburgh Police Firearm Seizure (Analysis: Owen Finucan)
+                  - https://data.wprdc.org/dataset/pbp-fire-arm-seizures
+                  - Gives a list of firearm seizures done by the Pittsburgh Police
                - Pittsburgh Police Arrest Date (Analysis: Jonah Smith)
                   - https://data.wprdc.org/dataset/arrest-data
                   - Gives a list of all arrests by the Pittsburgh police over the past ~7 years, with location, arrest time, arrest reason, and other metrics.
@@ -27,4 +27,4 @@ FORMULA:
 
 Each neighborhood will be assigned a point value which will be representative of how great of a place it is to commit capital crime.
 
-Points = 100 * (100 * weighted crime rate in a Location) / (.1 * # of Arrests in a Location * 2 * # of guns seized in a Location)
+Points = crimePoints * 100 / (arrestPoints * gunPoints)
